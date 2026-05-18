@@ -1,11 +1,8 @@
 
-
-
 <div align="center">
   <img src="imgs/banner.png" width="100%" alt="Chaparro — RPA Specialist | Python Developer"/>
 </div>
 
-$${\color{crimson} \space Hi \space  I'm \space Felipe \space Lopez }$$
 
 ## `> Whoami`
 
